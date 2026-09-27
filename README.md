@@ -416,5 +416,5 @@ ENTONCES el nivel es CONDICIONES FAVORABLES.
 | Integrante | Aporte realizado |
 |---|---|
 | Daniela Camacho Grueso | Desarrollo y documentación del sistema inteligente de rutas del Metro de Medellín mediante el algoritmo A*. |
-| [Dayana Monsalve] | Desarrollo y documentación del SI – Condiciones de ruta y seguridad basado en reglas lógicas. |
+| Dayana Monsalve | Desarrollo y documentación del SI – Condiciones de ruta y seguridad basado en reglas lógicas. |
 
